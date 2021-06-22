@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  gatsby:
+    build: ./
+    tty: true
+    stdin_open: true
+    container_name: hitotsu_lp_v1_gatsby
+    ports:
+      - '8000:8000'
+    volumes:
+      - ./:/app
