@@ -97,7 +97,8 @@ npm ERR!     /root/.npm/_logs/2021-06-23T00_13_59_593Z-debug.log
 ```
 
 ### 試した事　1.1
-- https://qiita.com/holdout0521/items/ebf836fc11e864177628　の記事の内容を試した
+- https://qiita.com/holdout0521/items/ebf836fc11e864177628
+の記事の内容を試した
 
 #### エラー
 ```
