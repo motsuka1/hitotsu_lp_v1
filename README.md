@@ -3,6 +3,8 @@
 # 開発環境立ち上げ
 - docker-compose build
 - docker-compose up
+
+ターミナルの別タブを開いてコンテナに入る
 - docker exec -it hitotsu_lp_v1_gatsby /bin/sh
 
 starterをインストール
